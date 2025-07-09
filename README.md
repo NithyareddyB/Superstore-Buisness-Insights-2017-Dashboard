@@ -6,8 +6,7 @@ An interactive Tableau dashboard that provides a comprehensive analysis of the S
 
 ### 📸 Dashboard Preview
 
-![Superstore Dashboard Preview](assets/superstore_dashboard_preview.png)
-*(You can use a screenshot from the Tableau)*
+![Superstore Dashboard Preview](superstore_dashboard_preview.png)
 
 ---
 
